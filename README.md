@@ -1,8 +1,8 @@
 # Self Introduction
-- 👋 Hi, I’m @0OO00OO0
-- 👀 I’m interested in everything
-- 🌱 I’m currently testing the markdown via this readme
-- 📫 How to reach me: connect to Aiur and you can reach me
+- 👋 Hi, I’m @0OO00OO0!
+- 👀 I’m interested in the field of graph representation learning.
+- 🌱 I’m currently pursuing a bachelor's degree in Zhejiang University.
+- 📫 How to reach me: via my email tommyzhao1117@outlook.com. (I don't check this very often so...)
 
 <!---
 0OO00OO0/0OO00OO0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
