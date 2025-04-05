@@ -1,6 +1,5 @@
 # Self Introduction
 - 👋 Hi, I’m @0OO00OO0!
-- 👀 I’m interested in the field of graph representation learning.
 - 🌱 I’m currently pursuing a bachelor's degree in Zhejiang University.
 - 📫 How to reach me: via my email tommyzhao1117@outlook.com. (I don't check this very often so...)
 
